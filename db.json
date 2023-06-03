@@ -1,0 +1,19 @@
+{
+    "players":[
+        {
+            "id":1,
+            "name":"Mashrafe Mortaza",
+            "position":"Boller & Captain"
+        },
+        {
+            "id":2,
+            "name":"Shakib Al Hasan",
+            "position":"Alrounder & Captain"
+        },
+        {
+            "id":3,
+            "name":"Mushfiqur Rahim",
+            "position":"Batsman & Captain"
+        }
+    ]
+}
